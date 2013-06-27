@@ -1,3 +1,0 @@
-[submodule "govendor"]
-	path = govendor
-	url = git://github.com/cloudfoundry/govendor.git
